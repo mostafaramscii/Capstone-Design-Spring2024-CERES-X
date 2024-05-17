@@ -1,3 +1,2 @@
------------User interface for MASCS ---------------
-Frameworks and libraries used:
-ReactJS - ROSLib - ROS Bridge Suite - ROS2D - NAV2D
+-----------User interface for CERES-X ---------------
+Frameworks and libraries used: ReactJS - ROSLib
